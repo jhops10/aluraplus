@@ -24,7 +24,7 @@ body {
 }
 
 .sessao_principal {
-    background-image: url(/assets/background.png);
+    background-image: url(assets/background.png);
     background-repeat: no-repeat;
     background-size: contain;
     margin: 1em 0 2em 0;
